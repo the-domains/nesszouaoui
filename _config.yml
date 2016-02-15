@@ -1,0 +1,28 @@
+name: Nesszouaoui
+favicon: null
+layout_spectrum: 0.6569362364243716
+typography_spectrum: 0.02217515790835023
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.314234078861773
+  lightness: 0.8257764456793666
+  saturation: 0.47685323702171445
+  rhythmicContrast: 0.7544680158607662
+purpose: []
