@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Nesszouaoui]]></title>
         <description><![CDATA[Nesszouaoui]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nesszouaoui/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 22:13:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 22:17:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nesszouaoui/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/29096fcd-8c25-4483-b2ff-adebf8c0f3c7.jpg">]]></description>
-            <link>undefined6dca078c-c122-463f-bebd-6205cad2c7e1/index.html</link>
+            <link>https://thegrid.ai/nesszouaoui/6dca078c-c122-463f-bebd-6205cad2c7e1/index.html</link>
             <guid isPermaLink="false">6dca078c-c122-463f-bebd-6205cad2c7e1</guid>
-            <pubDate>Mon, 15 Feb 2016 22:12:27 GMT</pubDate>
+            <pubDate>Mon, 15 Feb 2016 22:16:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
