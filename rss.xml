@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Blog de ness]]></title>
-        <description><![CDATA[Blog de ness]]></description>
+        <title><![CDATA[GuillaumeStmichel]]></title>
+        <description><![CDATA[GuillaumeStmichel]]></description>
         <link>https://thegrid.ai/nesszouaoui/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 22:26:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 00:24:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nesszouaoui/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/326fca13-d78e-4280-b253-e170cc15b686.jpg">]]></description>
+            <title><![CDATA[Guillaume Saint-Michel]]></title>
+            <description><![CDATA[<article><h1>Guillaume Saint-Michel</h1><p>Photographe Mode - info@GSTM.COM</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/17dcb96233fcf49fbe4ed6fcc9574441a273988b.jpg"></article>]]></description>
             <link>https://thegrid.ai/nesszouaoui/6dca078c-c122-463f-bebd-6205cad2c7e1/index.html</link>
             <guid isPermaLink="false">6dca078c-c122-463f-bebd-6205cad2c7e1</guid>
-            <pubDate>Mon, 15 Feb 2016 22:25:58 GMT</pubDate>
+            <pubDate>Tue, 16 Feb 2016 00:07:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
